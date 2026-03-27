@@ -1,4 +1,4 @@
-["Shellraiser"]('assets/images/shellraiser-logo.png')
+!["Shellraiser"](assets/images/shellraiser-logo.png)
 
 # Shellraiser
 
